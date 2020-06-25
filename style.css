@@ -21,8 +21,10 @@ body{
   justify-content: space-between;
   margin:0 auto;
 }
+
 .left-sidebar-menu li{
   padding: 15px 20px;
+  
 }
 .left-sidebar-menu li:first-child {
   padding-top: 40px;
@@ -35,11 +37,6 @@ body{
 .col-md-9 {
   font-size: 24px;
   font-weight: bold;
-}
-
-i {
-  display: inline-block;
-  margin-right: 10px!important;
 }
 .user-mail {
   padding-right: 100px;
